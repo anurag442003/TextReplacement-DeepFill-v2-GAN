@@ -1,0 +1,7 @@
+argparse
+opencv-python
+numpy
+google-cloud-vision
+Pillow
+torch
+torchvision
